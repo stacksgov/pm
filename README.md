@@ -1,6 +1,6 @@
 # Stacks Governance - Project Management
 
-This repository contains the project board and related issues to the Stacks governance initiative.
+This repository contains the [master project board](https://github.com/stacksgov/pm/projects) and issues related to the Stacks governance initiative.
 
 To view a project in more detail, click the __Projects__ tab in the menu bar. [![2020-03-17 14 37 57 github com c7b107b0a8c6](https://user-images.githubusercontent.com/9038904/76905139-95f07600-685e-11ea-82ab-823f35932854.png)](https://github.com/stacksgov/pm/projects)
 
