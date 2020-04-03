@@ -15,8 +15,6 @@ There are a number of working groups in the Blockstack community. Governance is 
 
 Each week, the members of the governance working group meet on a call. These are currently scheduled everyday Wednesday at 10am New York time. The agenda for the next call is posted as a GitHub issue in this repository, and the notes and other resources for previous calls are posted in [the calls subfolder](https://github.com/stacksgov/resources/tree/master/calls) of the `stacksgov/resources` repository.
 
-### How to host a call
-
 Here are the steps you should take to prepare for an upcoming working group call.
 
 ### Things you'll need
