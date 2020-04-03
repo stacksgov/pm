@@ -2,6 +2,11 @@
 
 This document contains recommended best practices for managing various aspects of the Stacks governance initiative.
 
+- [Working group](#working-group)
+- [Governance calls](#governance-calls)
+- [Regular updates](#regular-updates)
+- [GitHub repositories](#github)
+
 ## Working group
 
 There are a number of working groups in the Blockstack community. Governance is one such group; others include Business Models and Proof of Transfer (PoX). Each working group has a designated sub-category on the [Blockstack Community Forum](https://forum.blockstack.org/): here is the [Working Groups/Governance](https://forum.blockstack.org/c/Working-Groups/governance) category. Each working group also has a designated channel on the [Blockstack Discord server](http://chat.blockstack.org/). Note that, at present, Blockstack PBC is responsible for administering both the Forum and the Discord server.
@@ -89,3 +94,10 @@ The governance working group collaboratively publishes a regular update, approxi
 1. Announce the new update to the working group.
 
 ## GitHub
+
+It's your responsibility to manage the various GitHub repositories that part of the [`stacksgov` organization](https://github.com/stacksgov). Here are some tips:
+
+- [`stacksgov/pm`](https://github.com/stacksgov/pm) (this repository): 
+- [`stacksgov/resources`](https://github.com/stacksgov/resources): 
+- [`stacksgov/updates`](https://github.com/stacksgov/updates): 
+- [`stacksgov/proposals`](https://github.com/stacksgov/proposals): 
