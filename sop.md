@@ -73,7 +73,9 @@ Some helpful tips for hosting a call:
 1. Add the YouTube link to the meeting agenda issue description (at the top).
 1. Share the YouTube link in the working group.
 1. Get the call notes from the note taker.
-1. Open a new pull request against `stacksgov/resources` and add the info for the call: notes, link to YouTube recording, and a link to any other resources (e.g., a presentation) shared on the call. Here's a [sample PR](https://github.com/stacksgov/resources/pull/25). You should let another working group member review and approve the PR before merging it.
+1. Open a new pull request against `stacksgov/resources` and add the info for the call: notes, link to YouTube recording, and a link to any other resources (e.g., a presentation) shared on the call. Here's a [sample PR](https://github.com/stacksgov/resources/pull/25). You should let another working group member review and approve the PR before merging it. The PR should include:
+    - A new notes file in https://github.com/stacksgov/resources/tree/master/calls/notes named `YYYY-MM-DD-Meeting-XXXX.md`
+    - An update to the table in https://github.com/stacksgov/resources/blob/master/calls/README.md, adding the new call, with links to the agenda, video recording, and notes
 
 ## Regular updates
 
