@@ -77,6 +77,13 @@ Some helpful tips for hosting a call:
 
 ## Regular updates
 
+The governance working group collaboratively publishes a regular update, approximately once a week, for the broader Blockstack community. You can find previous updates in the [`stacksgov/updates`](https://github.com/stacksgov/updates) repository. Here's how to write such an update.
 
+1. Using the previous update as a template, write the update in markdown format. It should be called `YYYYMMDD-update-XXX.md` and live in https://github.com/stacksgov/updates/tree/master/updates. Make sure the update includes a link to the agenda and notes for the most recent call, as well as a brief update on each of the main initiatives the working group is working on.
+1. Save the update into a new branch and open a PR to merge it into the master branch.
+1. As part of the same PR, update https://github.com/stacksgov/updates/blob/master/README.md to add a link to the new file.
+1. Share the URL for this new PR in the chat channel to give others in the working group a chance to review it, suggest additions/corrections, etc.
+1. After giving other members of the working group a few days to review and approve the update, feel free to merge the PR.
+1. Announce the new update to the working group.
 
 ## GitHub
