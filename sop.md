@@ -47,6 +47,7 @@ Here are the steps you should take to prepare for an upcoming working group call
 1. Review the agenda issue and add proposed topics to the agenda.
 1. About ten minutes before the call, fire up Zoom and start the meeting. Make sure that the link joins, and that you have host capabilities. Share the Zoom link in the working group chat. (Again, do NOT post the link anywhere public, including on social media.)
 1. Wait until 5-10 minutes past the hour, or at least until there is a reasonable quorum, before starting the call.
+1. Quickly scan the names of all of the participants in Zoom. Make sure that all of the names are correct, and in particular, that no one's phone number is displayed publicly. As moderator ("host" on Zoom), you can rename a participant if necessary.
 1. Notify everyone that you're about to hit record, and remind them that the rest of the call will be public and on the record.
 1. Hit Record (you generally want to record to the cloud), and start the meeting!
 1. Introduce yourself and explain that you'll be moderating the call. Ask if anyone else would like to introduce themselves to the group.
