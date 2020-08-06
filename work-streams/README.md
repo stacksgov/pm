@@ -1,3 +1,3 @@
 # Stacks Governance - Work Streams
 
-This document contains active projects and discussion items related to the Stacks Governance working group.
+This folder contains documents related to active projects and discussion items for the Stacks Governance working group.
