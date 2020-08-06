@@ -1,14 +1,23 @@
 # Stacks Governance - Project Management
 
-This repository contains the [master project board](https://github.com/stacksgov/pm/projects) and issues related to the Stacks governance initiative.
+This repository contains [project boards](https://github.com/stacksgov/pm/projects), [open issues](https://github.com/stacksgov/pm/issues), [work streams](./work-streams), and [meeting agendas](https://github.com/stacksgov/pm/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) for the Stacks Governance initiative.
 
-To view a project in more detail, click the __Projects__ tab in the menu bar. [![2020-03-17 14 37 57 github com c7b107b0a8c6](https://user-images.githubusercontent.com/9038904/77010187-8b99af00-6926-11ea-9343-4e72804543a2.png)](https://github.com/stacksgov/pm/projects)
+All of the information in this README is viewable on the related website for this repository, located at the link below:
 
-To view or add an issue, click the __Issues__ tab in the menu bar. [![2020-03-17 14 35 49 github com 30d9f1b6569c](https://user-images.githubusercontent.com/9038904/77010174-88062800-6926-11ea-9a0e-4f2a5882cb69.png)](https://github.com/stacksgov/pm/issues)
+https://stacksgov.github.io/pm
 
-## Standard operating procedures
+## Additional Outlets
 
-See the [Standard operating procedures](sop.md) document for some guidance and best practice on project management for the governance working group.
+More information about the Stacks Foundation can be found at the links below:
+
+- Website: https://stacks.org
+- Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
+- Resources: https://stacksgov.github.io/resources
+- Community Calls: https://stacksgov.github.io/resources/#/calls/README
+
+## Standard Operating Procedures
+
+General guidance including best practices for project management of the Governance Working Group can be found in the [Standard Operating Procedures document](sop.md).
 
 ## Licensing
 
