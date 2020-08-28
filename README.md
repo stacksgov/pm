@@ -1,6 +1,6 @@
 # Stacks Governance - Project Management
 
-This repository contains [project boards](https://github.com/stacksgov/pm/projects), [open issues](https://github.com/stacksgov/pm/issues), [work streams](./work-streams), and [meeting agendas](https://github.com/stacksgov/pm/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) for the Stacks Governance initiative.
+This repository contains [project boards](https://github.com/stacksgov/pm/projects), [open issues](https://github.com/stacksgov/pm/issues), [work streams](./work-streams/), and [meeting agendas](https://github.com/stacksgov/pm/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) for the Stacks Governance initiative.
 
 All of the information in this README is viewable on the related website for this repository, located at the link below:
 
