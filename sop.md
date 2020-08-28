@@ -100,3 +100,11 @@ It's your responsibility to manage the various GitHub repositories that part of 
 - [`stacksgov/resources`](https://github.com/stacksgov/resources): This is the working group's collective "knowledge base." It contains resources, and links to external resources, shared in the governance working group and on the calls. Contains an up to date [table of past calls](https://github.com/stacksgov/resources/blob/master/calls/README.md) with links to resources for those calls. Issues should only be about missing resources. Anyone is free to open an issue to request that some resources be added, as well as to open a PR to propose adding some resource. Your job is to curate these requests and review these proposals.
 - [`stacksgov/updates`](https://github.com/stacksgov/updates): Stores the regular updates [described above](#regular-updates). Issues and PRs should only be related to these updates.
 - [`stacksgov/proposals`](https://github.com/stacksgov/proposals): Stores miscellaneous governance proposals. We're still determining the role of this repository and these proposals relative to the existing [SIP process](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-000-stacks-improvement-proposal-process.md).
+
+# General Resources
+
+See [Stacks Governance Project Management](https://stacksgov.github.io/pm/) for the main project management page related to governance of the Stacks blockchain.
+
+# Licensing
+
+This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
