@@ -22,13 +22,30 @@ More information about the Stacks Foundation and its mission can be found at the
 - Resources: https://stacksgov.github.io/resources
 - Community Calls: https://stacksgov.github.io/resources/#/calls/README
 - Project Management: https://stacksgov.github.io/pm
-- Meeting Agendas: [on GitHub](https://github.com/stacksgov/pm/issues?q=is%3Aissue+label%3Amtg-agenda)
 
-## Governance Calls
+## Governance Working Group Calls
 
-Governance Working Group calls are held every other week, where members of the group get together to receive updates from the Stacks Foundation, 
+Governance Working Group calls are held every other week, and follow the basic agenda format listed below:
 
-Each week, the members of the governance working group meet on a call. These are currently scheduled everyday Wednesday at 10am New York time. The agenda for the next call is posted as a GitHub issue in this repository, and the notes and other resources for previous calls are posted in [the calls subfolder](https://github.com/stacksgov/resources/tree/master/calls) of the `stacksgov/resources` repository.
+- A quick standup update from each attendee
+- Updates from the Stacks Foundation 
+- Review of Action Items 
+- Review of Discussion Items 
+- Review of Miscellaneous Items
+
+The meeting agendas and various topics discussed can be found on GitHub, under the [issues tab](https://github.com/stacksgov/pm/issues) of the `stacksgov/pm` repository. There are labels for each issue based on the agenda categories, and the issues tab can be filtered by each label for review.
+
+- Meeting Agendas: [mtg-agenda](https://github.com/stacksgov/pm/labels/mtg-agenda)
+- Stacks Foundation: [mtg-stxfoundation](https://github.com/stacksgov/pm/labels/mtg-stxfoundation)
+- Action Items: [mtg-action](https://github.com/stacksgov/pm/labels/mtg-action)
+- Discussion Items: [mtg-discussion](https://github.com/stacksgov/pm/labels/mtg-discussion)
+
+> **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Master Issues](https://guides.github.com/features/issues/) guide from GitHub. 
+
+The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources Page](https://stacksgov.github.io/resources/#/calls/). 
+
+
+-----
 
 Here are the steps you should take to prepare for an upcoming working group call.
 
