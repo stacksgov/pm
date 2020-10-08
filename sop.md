@@ -13,7 +13,20 @@ From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/
 
 > Stacks governance is a community-run initiative! As such, it cannot work without your help, and without the input of as many community members as possible. You do not need anyone’s permission to get involved and contribute to the initiative. The #governance working group channel on [Blockstack Discord](https://discordapp.com/invite/ny6wGkx) is a great place to begin getting involved, as many community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [governance category](https://forum.blockstack.org/c/Working-Groups/governance/) on the Blockstack Community Forum which need your input.
 
-## Governance calls
+## Additional Outlets
+
+More information about the Stacks Foundation and its mission can be found at the links below:
+
+- Website: https://stacks.org
+- Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
+- Resources: https://stacksgov.github.io/resources
+- Community Calls: https://stacksgov.github.io/resources/#/calls/README
+- Project Management: https://stacksgov.github.io/pm
+- Meeting Agendas: [on GitHub](https://github.com/stacksgov/pm/issues?q=is%3Aissue+label%3Amtg-agenda)
+
+## Governance Calls
+
+Governance Working Group calls are held every other week, where members of the group get together to receive updates from the Stacks Foundation, 
 
 Each week, the members of the governance working group meet on a call. These are currently scheduled everyday Wednesday at 10am New York time. The agenda for the next call is posted as a GitHub issue in this repository, and the notes and other resources for previous calls are posted in [the calls subfolder](https://github.com/stacksgov/resources/tree/master/calls) of the `stacksgov/resources` repository.
 
