@@ -20,7 +20,6 @@ More information about the Stacks Foundation and its mission can be found at the
 - Website: https://stacks.org
 - Twitter: [@StacksOrg](https://twitter.com/StacksOrg)
 - Resources: https://stacksgov.github.io/resources
-- Community Calls: https://stacksgov.github.io/resources/#/calls/README
 - Project Management: https://stacksgov.github.io/pm
 
 ## Governance Working Group Calls
@@ -36,11 +35,11 @@ Governance Working Group calls are held every other week, and follow the basic a
 The meeting agendas and various topics discussed can be found on GitHub, under the [issues tab](https://github.com/stacksgov/pm/issues) of the `stacksgov/pm` repository. There are labels for each issue based on the agenda categories, and the issues tab can be filtered by each label for review.
 
 - Meeting Agendas: [mtg-agenda](https://github.com/stacksgov/pm/labels/mtg-agenda)
-- Stacks Foundation: [mtg-stxfoundation](https://github.com/stacksgov/pm/labels/mtg-stxfoundation)
+- Stacks Foundation: [mtg-stacksfoundation](https://github.com/stacksgov/pm/labels/mtg-stacksfoundation)
 - Action Items: [mtg-action](https://github.com/stacksgov/pm/labels/mtg-action)
-- Discussion Items: [mtg-discussion](https://github.com/stacksgov/pm/labels/mtg-discussion)
+- Discussion Items: [mtg-discuss](https://github.com/stacksgov/pm/labels/mtg-discuss)
 
-> **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Master Issues](https://guides.github.com/features/issues/) guide from GitHub. 
+> **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Mastering Issues](https://guides.github.com/features/issues/) guide from GitHub. 
 
 The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources Page](https://stacksgov.github.io/resources/#/calls/). 
 
