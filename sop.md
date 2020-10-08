@@ -41,7 +41,7 @@ The meeting agendas and various topics discussed can be found on GitHub, under t
 
 > **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Mastering Issues](https://guides.github.com/features/issues/) guide from GitHub. 
 
-The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources Page](https://stacksgov.github.io/resources/#/calls/). 
+The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources - Calls Page](https://stacksgov.github.io/resources/#/calls/). 
 
 
 -----
