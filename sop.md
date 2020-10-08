@@ -43,17 +43,16 @@ The meeting agendas and various topics discussed can be found on GitHub, under t
 
 The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources - Calls Page](https://stacksgov.github.io/resources/#/calls/). 
 
+## Governance Working Group Call Procedures 
 
------
+Below are the steps for setting up, hosting, and following up on a call.
 
-Here are the steps you should take to prepare for an upcoming working group call.
-
-### Things you'll need
+### Things You'll Need 
 
 - Access to the Zoom Pro account used to host the call (or help from the account owner)
 - Access to the [Stacks Governance YouTube channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg) (or help from someone who has this)
 
-### Preparing for a call
+### Preparing for a Call
 
 1. Determine who will moderate the call, and who will be responsible for taking notes.
 1. Open a [new issue](https://github.com/stacksgov/pm/issues/new) for the call agenda in this repository. This should be done at least a few days before the call to give people the opportunity to propose agenda items. Use the previous call agenda as a template ([full list](https://github.com/stacksgov/pm/issues?q=is%3Aissue+label%3Acall+)), updating the call times in various timezones, assigned call moderator, and agenda items. When updating call times, be especially careful of the times of year—autumn, and spring—when different regions switch timezones at different times, which means that the relative times may change as well. Creating an "Event Time Announcer" on timeanddate.com ([sample](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Stacks+Governance+Working+Group+Call&iso=20200401T10&p1=179&ah=1)) can be very helpful here, as it allows people to easily verify the time in their timezone.
@@ -69,7 +68,7 @@ Here are the steps you should take to prepare for an upcoming working group call
 1. Add the Zoom invite link for the call (which should include the meeting password, to allow one-click join) to the regular calendar invitation, if there is one.
 1. Do NOT share the link to join the call publicly. Do NOT post it on social media!
 
-### Hosting a call
+### Hosting a Call
 
 1. 24 hours before the call, remind everyone in the working group channel about the upcoming meeting, using the `@everyone` tag. Include a link to the agenda issue. Here's a sample message:
 
@@ -90,7 +89,7 @@ Some helpful tips for hosting a call:
 - Let people speak freely, but feel free to cut someone off if they speak for more than a few minutes. Do so politely, and remind them that it's important that we give everyone a chance to share their thoughts. Suggest that, if they have more to say on this topic, they could write up their thoughts and post them to the forum and/or share them in the chat channel.
 - Try to keep the conversation focused on the present topic. Slight diversions are of course fine, but if the topic diverges too far from the current agenda item, bring it back on track by gently reminding the group of the question at hand - and offering to return to the new topic later, time-allowing.
 
-### After a call
+### After a Call
 
 1. Make a note of issues that you didn't have time to discuss on the call, and make sure they get priority on the agenda for the next call. (You may find it helpful to immediately create the agenda for the next call, as described above.)
 1. Log into the Zoom account and download the video recording of the call. This usually takes about an hour to appear, although in rare cases it may take longer. If you don't have access to the Zoom account, ask its owner to send you the video link.
@@ -112,7 +111,7 @@ Some helpful tips for hosting a call:
     - A new notes file in https://github.com/stacksgov/resources/tree/master/calls/notes named `YYYY-MM-DD-Meeting-XXXX.md`
     - An update to the table in https://github.com/stacksgov/resources/blob/master/calls/README.md, adding the new call, with links to the agenda, video recording, and notes
 
-## Regular updates
+## Regular Updates
 
 The governance working group collaboratively publishes a regular update, approximately once a week, for the broader Blockstack community. You can find previous updates in the [`stacksgov/updates`](https://github.com/stacksgov/updates) repository. Here's how to write such an update.
 
