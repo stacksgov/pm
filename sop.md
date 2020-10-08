@@ -54,6 +54,16 @@ Below are the steps for setting up, hosting, and following up on a call.
 
 ### Preparing for a Call
 
+1. Create a new agenda by opening an issue based on template 
+2. Update date/time (+ event time announcer?)
+1. Determine roles, or list TBA if unknown
+2. Close the issue from the previous call 
+3. Send a calendar invite to everyone 
+    - where do we have this list? better way to access it, or ask Jenny to send?
+    - also depends on zoom account used to host calls, do we have a foundation one yet? do we need to worry about settings each time?
+
+-----
+
 1. Determine who will moderate the call, and who will be responsible for taking notes.
 1. Open a [new issue](https://github.com/stacksgov/pm/issues/new) for the call agenda in this repository. This should be done at least a few days before the call to give people the opportunity to propose agenda items. Use the previous call agenda as a template ([full list](https://github.com/stacksgov/pm/issues?q=is%3Aissue+label%3Acall+)), updating the call times in various timezones, assigned call moderator, and agenda items. When updating call times, be especially careful of the times of year—autumn, and spring—when different regions switch timezones at different times, which means that the relative times may change as well. Creating an "Event Time Announcer" on timeanddate.com ([sample](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Stacks+Governance+Working+Group+Call&iso=20200401T10&p1=179&ah=1)) can be very helpful here, as it allows people to easily verify the time in their timezone.
 1. Add the "call" label to the issue.
