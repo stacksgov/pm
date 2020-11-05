@@ -2,7 +2,20 @@
 
 This document contains recommended best practices for managing various aspects of the Stacks governance initiative.
 
-TODO: INSERT TOC
+<!-- TOC -->
+
+- [Get Involved!](#get-involved)
+- [Additional Outlets](#additional-outlets)
+- [Governance Working Group Calls](#governance-working-group-calls)
+- [Governance Working Group Call Procedures](#governance-working-group-call-procedures)
+  - [Preparing for a Call](#preparing-for-a-call)
+  - [Hosting a Call](#hosting-a-call)
+  - [Uploading Call Videos](#uploading-call-videos)
+  - [Publishing Call Updates](#publishing-call-updates)
+- [Governance Working Group Resources](#governance-working-group-resources)
+- [Licensing](#licensing)
+
+<!-- /TOC -->
 
 ## Get Involved!
 
@@ -91,7 +104,7 @@ TODO: add content
 
 TODO: add content, to be done on the Stacks Forum
 
-## Access to Services
+## Governance Working Group Resources
 
 TODO: add more details
 
@@ -99,7 +112,7 @@ TODO: add more details
 - YouTube account / [channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg)
 - Zoom Pro meeting room
 
-# Licensing
+## Licensing
 
 This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
 
