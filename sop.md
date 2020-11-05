@@ -96,10 +96,26 @@ A sample post is included below, but feel free to modify based on current events
 
 ### Hosting a Call
 
-TODO: add more details
+**Moderator Responsibilities**
 
-- Moderator responsibilities
-- Secretary responsibilities
+Moderators act as the meeting host, which gives them additional abilities in the meeting software, and are responsible for stewarding the meeting.
+
+The basic flow of moderating a call:
+
+- Wait until 5-10 minutes past the hour, or at least until there is a reasonable quorum, before starting the call.
+- Quickly scan the names of all Zoom participants to make sure the names are correct and that nobody's phone number is displayed publicly. As moderator, you can rename a participant if necessary.
+- Notify everyone before starting the recording, and that the rest of the call will be public and on the record.
+- Click **Record** then **Record to the Cloud** before starting the meeting.
+- State the date, time and meeting number, followed by introducing yourself as the moderator.
+- Ask if there are any new attendees, and if anyone else would like to introduce themselves to the group.
+- Share your screen with the current meeting agenda, and proceed through each agenda item with the group.
+- At the end of the meeting, summarize all topics discussed, and post the summary to the meeting agenda issue on GitHub.
+
+Some helpful tips for being a moderator:
+
+- Keep an eye on the time. Don't spend more than 5-10 minutes max on any given topic. If the discussion of a particular topic goes over this amount of time, offer to reserve some time to continue discussing the topic at the end of the call, politely remind everyone that there are other items on the agenda to discuss, and introduce the next topic.
+- Let people speak freely, but feel free to cut someone off if they speak for more than a few minutes. Do so politely, and remind them that it's important that we give everyone a chance to share their thoughts. Suggest that, if they have more to say on this topic, they could write up their thoughts and post them to the forum and/or share them in the chat channel.
+- Try to keep the conversation focused on the present topic. Slight diversions are fine, but if the topic diverges too far from the current agenda item, bring it back on track by gently reminding the group of the question at hand - and offering to return to the new topic later, time-allowing.
 
 ### Uploading Call Videos 
 
@@ -118,11 +134,11 @@ IDEA: should this be done for every call, or once/month as a summary?
 
 ## Governance Working Group Resources
 
-TODO: add more details
+Working on the items above will require access to the related software and services, listed below. If you do not have access and would like to contribute, please reach out via the Stacks Discord server in the `#governance` channel.
 
-- GitHub repository
-- YouTube account / [channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg)
-- Zoom Pro meeting room
+- [GitHub Repositories](https://github.com/stacksgov)
+- [YouTube Channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg)
+- Zoom Pro Account
 
 ## Licensing
 
@@ -161,18 +177,7 @@ Juliet: not sure where we are on the grant, historical intro but recap of the la
 1. Repeat the same thing an hour before the call.
 1. Review the agenda issue and add proposed topics to the agenda.
 1. About ten minutes before the call, fire up Zoom and start the meeting. Make sure that the link joins, and that you have host capabilities. Share the Zoom link in the working group chat. (Again, do NOT post the link anywhere public, including on social media.)
-1. Wait until 5-10 minutes past the hour, or at least until there is a reasonable quorum, before starting the call.
-1. Quickly scan the names of all of the participants in Zoom. Make sure that all of the names are correct, and in particular, that no one's phone number is displayed publicly. As moderator ("host" on Zoom), you can rename a participant if necessary.
-1. Notify everyone that you're about to hit record, and remind them that the rest of the call will be public and on the record.
-1. Hit Record (you generally want to record to the cloud), and start the meeting!
-1. Introduce yourself and explain that you'll be moderating the call. Ask if anyone else would like to introduce themselves to the group.
-1. Ask if anyone would like to share a weekly update: what they've been working on, what they'll work on next, and if they have any blockers. Feel free to offer your update first to kick things off. Don't pressure anyone to share an update if they don't opt to on their own.
 
-Some helpful tips for hosting a call:
-
-- Keep an eye on the time. Don't spend more than 5-10 minutes max. on any given topic. If the discussion of a particular topic goes over this amount of time, offer to reserve some time to continue discussing the topic at the end of the call, politely remind everyone that there are other items on the agenda to discuss, and introduce the next topic.
-- Let people speak freely, but feel free to cut someone off if they speak for more than a few minutes. Do so politely, and remind them that it's important that we give everyone a chance to share their thoughts. Suggest that, if they have more to say on this topic, they could write up their thoughts and post them to the forum and/or share them in the chat channel.
-- Try to keep the conversation focused on the present topic. Slight diversions are of course fine, but if the topic diverges too far from the current agenda item, bring it back on track by gently reminding the group of the question at hand - and offering to return to the new topic later, time-allowing.
 
 ### After a Call
 
