@@ -94,11 +94,19 @@ A sample post is included below, but feel free to modify based on current events
 
 ### Hosting a Call
 
-TODO: add content
+TODO: add more details
+
+- Moderator responsibilities
+- Secretary responsibilities
 
 ### Uploading Call Videos 
 
-TODO: add content
+TODO: add more details 
+
+- Download files from Zoom 
+- Upload files to YouTube 
+- Add link to the related agenda issue 
+- Share YouTube link in `#governance` discord channel
 
 ### Publishing Call Updates
 
