@@ -8,7 +8,7 @@ labels: mtg-agenda
 ## Meeting Details
 
 - **Date/Time:** Month Date, Year @ 4:00pm UTC / 12:00pm ET
-- **Location:** Link will be posted in `#governance` working group channel [on Discord](https://community.blockstack.org/discord) shortly before the call.
+- **Location:** Link will be posted in the `#governance` working group channel [on Discord](https://community.blockstack.org/discord) shortly before the call.
 - **Recording:** TBA
 - **Moderator:** TBA
 - **Secretary:** TBA
