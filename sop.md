@@ -119,18 +119,36 @@ Some helpful tips for being a moderator:
 
 ### Uploading Call Videos 
 
-TODO: add more details 
+A basic outline of the process is outlined below, however more details will be added at a later date.
 
 - Download files from Zoom 
-- Upload files to YouTube 
+- Upload files to YouTube using the template below
+    ```
+    Title: Stacks Governance Call #X [YYYY/MM/DD]
+    Description:
+      Agenda: [link to agenda issue]
+      Links shared on call:
+        - Link 1
+        - Link 2
+    ```
 - Add link to the related agenda issue 
 - Share YouTube link in `#governance` discord channel
 
+<!-- related notes from old sop 
+
+1. Review the video: in particular, the very beginning and end of the video. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
+1. Log into the [Stacks Governance YouTube channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg) and upload the video of the call. 
+1. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
+1. Add the YouTube link to the meeting agenda issue description (at the top).
+1. Share the YouTube link in the working group.
+
+-->
+
 ### Publishing Call Updates
 
-TODO: add content, to be done on the Stacks Forum
+**Publisher Responsibilities**
 
-IDEA: should this be done for every call, or once/month as a summary?
+
 
 ## Governance Working Group Resources
 
@@ -145,8 +163,6 @@ Working on the items above will require access to the related software and servi
 This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
 
 <!-- notes and previous data
-
-TODO: figure out how to approach in a decentralized fashion ? blocker: calendar invite, zoom link, youtube account
 
 TODO: add second template for "other issues" (blank issue link hard to find?)
     - could do one for action item, discussion item, foundation item, or other ?
@@ -183,19 +199,7 @@ Juliet: not sure where we are on the grant, historical intro but recap of the la
 
 1. Make a note of issues that you didn't have time to discuss on the call, and make sure they get priority on the agenda for the next call. (You may find it helpful to immediately create the agenda for the next call, as described above.)
 1. Log into the Zoom account and download the video recording of the call. This usually takes about an hour to appear, although in rare cases it may take longer. If you don't have access to the Zoom account, ask its owner to send you the video link.
-1. Review the video: in particular, the very beginning and end of the video. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
-1. Log into the [Stacks Governance YouTube channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg) and upload the video of the call. Use this template:
-    ```
-    Title: Stacks Governance Call #X [YYYY/MM/DD]
-    Description:
-      Agenda: [link to agenda issue]
-      Links shared on call:
-        - Link 1
-        - Link 2
-    ```
-1. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
-1. Add the YouTube link to the meeting agenda issue description (at the top).
-1. Share the YouTube link in the working group.
+
 1. Get the call notes from the note taker.
 1. Open a new pull request against `stacksgov/resources` and add the info for the call: notes, link to YouTube recording, and a link to any other resources (e.g., a presentation) shared on the call. Here's a [sample PR](https://github.com/stacksgov/resources/pull/25). You should let another working group member review and approve the PR before merging it. The PR should include:
     - A new notes file in https://github.com/stacksgov/resources/tree/master/calls/notes named `YYYY-MM-DD-Meeting-XXXX.md`
