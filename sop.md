@@ -44,11 +44,6 @@ The notes and resources from previous calls are stored in the `stacksgov/resourc
 
 Below are the steps for setting up, hosting, and following up on a call.
 
-### Things You'll Need 
-
-- Access to the Zoom Pro account used to host the call (or help from the account owner)
-- Access to the [Stacks Governance YouTube channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg) (or help from someone who has this)
-
 ### Preparing for a Call
 
 1. Create a new agenda by opening an issue based on template 
@@ -94,13 +89,21 @@ TODO: add content
 
 ### Publishing Call Updates
 
-TODO: add content
+TODO: add content, to be done on the Stacks Forum
+
+## Access to Services
+
+TODO: add more details
+
+- GitHub repository
+- YouTube account / [channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg)
+- Zoom Pro meeting room
 
 # Licensing
 
 This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
 
------
+<!-- notes and previous data
 
 TODO: figure out how to approach in a decentralized fashion ? blocker: calendar invite, zoom link, youtube account
 
@@ -179,3 +182,4 @@ The governance working group collaboratively publishes a regular update, approxi
 1. After giving other members of the working group a few days to review and approve the update, feel free to merge the PR.
 1. Announce the new update to the working group.
 
+-->
