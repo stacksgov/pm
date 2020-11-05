@@ -88,6 +88,8 @@ Reminders about the governance call and a link to the agenda should be shared in
 - One day before the call
 - The day of the call
 
+> **Note:** do NOT post the link anywhere public, including on social media
+
 A sample post is included below, but feel free to modify based on current events and/or tag relevant people based on the issues!
 
 > Reminder that our next governance meeting is scheduled for next Thursday - agenda here: https://github.com/stacksgov/pm/issues/105
@@ -117,6 +119,19 @@ Some helpful tips for being a moderator:
 - Let people speak freely, but feel free to cut someone off if they speak for more than a few minutes. Do so politely, and remind them that it's important that we give everyone a chance to share their thoughts. Suggest that, if they have more to say on this topic, they could write up their thoughts and post them to the forum and/or share them in the chat channel.
 - Try to keep the conversation focused on the present topic. Slight diversions are fine, but if the topic diverges too far from the current agenda item, bring it back on track by gently reminding the group of the question at hand - and offering to return to the new topic later, time-allowing.
 
+<!-- I see this as a necessary role separate to the moderator, especially given the time/expertise required to submit a PR with updated information. Maybe GITPOD could help with this ??
+
+**Secretary Responsibilities**
+
+OLD NOTES:
+
+1. Get the call notes from the note taker.
+1. Open a new pull request against `stacksgov/resources` and add the info for the call: notes, link to YouTube recording, and a link to any other resources (e.g., a presentation) shared on the call. Here's a [sample PR](https://github.com/stacksgov/resources/pull/25). You should let another working group member review and approve the PR before merging it. The PR should include:
+    - A new notes file in https://github.com/stacksgov/resources/tree/master/calls/notes named `YYYY-MM-DD-Meeting-XXXX.md`
+    - An update to the table in https://github.com/stacksgov/resources/blob/master/calls/README.md, adding the new call, with links to the agenda, video recording, and notes
+
+-->
+
 ### Uploading Call Videos 
 
 A basic outline of the process is outlined below, however more details will be added at a later date.
@@ -137,10 +152,8 @@ A basic outline of the process is outlined below, however more details will be a
 <!-- related notes from old sop 
 
 1. Review the video: in particular, the very beginning and end of the video. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
-1. Log into the [Stacks Governance YouTube channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg) and upload the video of the call. 
+
 1. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
-1. Add the YouTube link to the meeting agenda issue description (at the top).
-1. Share the YouTube link in the working group.
 
 -->
 
@@ -148,7 +161,11 @@ A basic outline of the process is outlined below, however more details will be a
 
 **Publisher Responsibilities**
 
+This person will create an official, high-level update for the community and general public summarizing the actions of the Stacks Governance Working Group.
 
+Ideally, this will be posted to the [Stacks Forum](https://forum.stacks.org/) within one week of the original meeting. Previous updates can be found in the [stacksgov/updates repository](https://github.com/stacksgov/updates).
+
+Once posted, the update should be shared with the community via the `#governance` category. Please make sure the update includes a link to the agenda and notes for the most recent call, as well as a brief update on each of the main initiatives the working group is working on.
 
 ## Governance Working Group Resources
 
@@ -168,52 +185,5 @@ TODO: add second template for "other issues" (blank issue link hard to find?)
     - could do one for action item, discussion item, foundation item, or other ?
 
 IDEA: move updates to the forum, easier for anyone to write based on the call, and can be linked from the call table. good community challenge and could be done by someone watching the recording after.
-
-IDEA: if we had a set default for how calendar entries are sent out and for meeting location (i.e. stacks zoom account with settings ready to go), that would be really helpful.
-
-Juliet: not sure where we are on the grant, historical intro but recap of the last month or two
-
------
-
-1. Set up a Zoom invite for the call. First, check if a recurring Zoom invitation has already been set up—if so, you'll see the link in the regular calendar invitation. If it has already been set up, make sure you've been added as a host. If one has not been set up, you'll need to set up a new meeting. You'll need a Zoom Pro account. Jenny or Lane can do this for you. We recommend the following settings:
-    - Registration: Not required
-    - Meeting ID: Generate Automatically
-    - Meeting Password: Require a password
-    - Video: All off (by default)
-    - Audio: Telephone and Computer Audio
-    - Meeting Options: Do not enable join before host, do not enable waiting room
-1. Add the Zoom invite link for the call (which should include the meeting password, to allow one-click join) to the regular calendar invitation, if there is one.
-1. Do NOT share the link to join the call publicly. Do NOT post it on social media!
-
-### Hosting a Call
-
-1. 24 hours before the call, remind everyone in the working group channel about the upcoming meeting, using the `@everyone` tag. Include a link to the agenda issue. Here's a sample message:
-
-    > Hey @everyone, reminder that our next governance working group call is in 24 hours! Agenda is here, please review it before the call and feel free to propose topics: https://github.com/stacksgov/pm/issues/19. See you all tomorrow!
-1. Repeat the same thing an hour before the call.
-1. Review the agenda issue and add proposed topics to the agenda.
-1. About ten minutes before the call, fire up Zoom and start the meeting. Make sure that the link joins, and that you have host capabilities. Share the Zoom link in the working group chat. (Again, do NOT post the link anywhere public, including on social media.)
-
-
-### After a Call
-
-1. Make a note of issues that you didn't have time to discuss on the call, and make sure they get priority on the agenda for the next call. (You may find it helpful to immediately create the agenda for the next call, as described above.)
-1. Log into the Zoom account and download the video recording of the call. This usually takes about an hour to appear, although in rare cases it may take longer. If you don't have access to the Zoom account, ask its owner to send you the video link.
-
-1. Get the call notes from the note taker.
-1. Open a new pull request against `stacksgov/resources` and add the info for the call: notes, link to YouTube recording, and a link to any other resources (e.g., a presentation) shared on the call. Here's a [sample PR](https://github.com/stacksgov/resources/pull/25). You should let another working group member review and approve the PR before merging it. The PR should include:
-    - A new notes file in https://github.com/stacksgov/resources/tree/master/calls/notes named `YYYY-MM-DD-Meeting-XXXX.md`
-    - An update to the table in https://github.com/stacksgov/resources/blob/master/calls/README.md, adding the new call, with links to the agenda, video recording, and notes
-
-## Regular Updates
-
-The governance working group collaboratively publishes a regular update, approximately once a week, for the broader Blockstack community. You can find previous updates in the [`stacksgov/updates`](https://github.com/stacksgov/updates) repository. Here's how to write such an update.
-
-1. Using the previous update as a template, write the update in markdown format. It should be called `YYYYMMDD-update-XXX.md` and live in https://github.com/stacksgov/updates/tree/master/updates. Make sure the update includes a link to the agenda and notes for the most recent call, as well as a brief update on each of the main initiatives the working group is working on.
-1. Save the update into a new branch and open a PR to merge it into the master branch.
-1. As part of the same PR, update https://github.com/stacksgov/updates/blob/master/README.md to add a link to the new file.
-1. Share the URL for this new PR in the chat channel to give others in the working group a chance to review it, suggest additions/corrections, etc.
-1. After giving other members of the working group a few days to review and approve the update, feel free to merge the PR.
-1. Announce the new update to the working group.
 
 -->
