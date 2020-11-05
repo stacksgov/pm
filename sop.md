@@ -62,6 +62,7 @@ Below are the steps for setting up, hosting, and following up on a call.
 1. Create a new agenda by opening an issue based on template 
     - ideally this is done right after the last call, to give people enough time to add agenda items for the next meeting
     - example of the issue template on GitHub:
+    
     ![Agenda Issue Template Example](sop-meeting-agenda-example.png)
 1. Update the Date/Time to the future meeting date
 1. Create an Event Time Announcer link to help with time zone conversions
@@ -72,6 +73,7 @@ Below are the steps for setting up, hosting, and following up on a call.
     - Add a link to the result following the Date/Time in the issue 
     - e.g. in Markdown format: `[time zone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Stacks+Governance+Working+Group+Call+%2326&iso=20201022T16&ah=1)`
     - example of the announcement after someone clicks on it:
+  
     ![Event Time Announcer Example](sop-timeanddate-example.png)
 1. Update the roles, or list TBA if unknown
 1. Close the issue from the previous call (instructions below)
@@ -111,6 +113,8 @@ TODO: add more details
 ### Publishing Call Updates
 
 TODO: add content, to be done on the Stacks Forum
+
+IDEA: should this be done for every call, or once/month as a summary?
 
 ## Governance Working Group Resources
 
