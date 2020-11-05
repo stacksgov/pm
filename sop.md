@@ -2,10 +2,7 @@
 
 This document contains recommended best practices for managing various aspects of the Stacks governance initiative.
 
-- [Working group](#working-group)
-- [Governance calls](#governance-calls)
-- [Regular updates](#regular-updates)
-- [GitHub repositories](#github)
+TODO: INSERT TOC
 
 ## Get Involved!
 
@@ -55,19 +52,69 @@ Below are the steps for setting up, hosting, and following up on a call.
 ### Preparing for a Call
 
 1. Create a new agenda by opening an issue based on template 
-2. Update date/time (+ event time announcer?)
-1. Determine roles, or list TBA if unknown
-2. Close the issue from the previous call 
-3. Send a calendar invite to everyone 
-    - where do we have this list? better way to access it, or ask Jenny to send?
-    - also depends on zoom account used to host calls, do we have a foundation one yet? do we need to worry about settings each time?
+    - ideally this is done right after the last call, to give people enough time to add agenda items for the next meeting
+    - example of the issue template on GitHub:
+    ![Agenda Issue Template Example](sop-meeting-agenda-example.png)
+1. Update the Date/Time to the future meeting date
+1. Create an Event Time Announcer link to help with time zone conversions
+    - Access the [Event Time Announcer form](https://www.timeanddate.com/worldclock/fixedform.html) from timeanddate.com
+    - Name the event, e.g. `Stacks Governance Working Group Call #26`
+    - Set the Event Location to `UTC`
+    - Enter the Month, Day, Year, Hour, and Duration values based on `UTC`
+    - Add a link to the result following the Date/Time in the issue 
+    - e.g. in Markdown format: `[time zone conversion](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Stacks+Governance+Working+Group+Call+%2326&iso=20201022T16&ah=1)`
+    - example of the announcement after someone clicks on it:
+    ![Event Time Announcer Example](sop-timeanddate-example.png)
+1. Update the roles, or list TBA if unknown
+1. Close the issue from the previous call (instructions below)
+    - open the issue from the previous call 
+    - add a comment: "Closing in favor of #X" where #X is the issue number of the new agenda
+    - click **Close issue** next to the comment button
+1. Share the new issue in the `#governance` channel on Discord
+
+Reminders about the governance call and a link to the agenda should be shared in the `#governance` channel on Discord based on the following schedule:
+- After the new agenda is created
+- One week before the call
+- One day before the call
+- The day of the call
+
+A sample post is included below, but feel free to modify based on current events and/or tag relevant people based on the issues!
+
+> Reminder that our next governance meeting is scheduled for next Thursday - agenda here: https://github.com/stacksgov/pm/issues/105
+>
+> In the meantime, please update your issues with any progress you've made!
+
+### Hosting a Call
+
+TODO: add content
+
+### Uploading Call Videos 
+
+TODO: add content
+
+### Publishing Call Updates
+
+TODO: add content
+
+# Licensing
+
+This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
 
 -----
 
-1. Determine who will moderate the call, and who will be responsible for taking notes.
-1. Open a [new issue](https://github.com/stacksgov/pm/issues/new) for the call agenda in this repository. This should be done at least a few days before the call to give people the opportunity to propose agenda items. Use the previous call agenda as a template ([full list](https://github.com/stacksgov/pm/issues?q=is%3Aissue+label%3Acall+)), updating the call times in various timezones, assigned call moderator, and agenda items. When updating call times, be especially careful of the times of year—autumn, and spring—when different regions switch timezones at different times, which means that the relative times may change as well. Creating an "Event Time Announcer" on timeanddate.com ([sample](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Stacks+Governance+Working+Group+Call&iso=20200401T10&p1=179&ah=1)) can be very helpful here, as it allows people to easily verify the time in their timezone.
-1. Add the "call" label to the issue.
-1. Close the issue for the previous call, with the text "Closing in favor of #X" where "X" is the number of the new issue. This will link the two issues and makes navigating among call agendas much easier.
+TODO: figure out how to approach in a decentralized fashion ? blocker: calendar invite, zoom link, youtube account
+
+TODO: add second template for "other issues" (blank issue link hard to find?)
+    - could do one for action item, discussion item, foundation item, or other ?
+
+IDEA: move updates to the forum, easier for anyone to write based on the call, and can be linked from the call table. good community challenge and could be done by someone watching the recording after.
+
+IDEA: if we had a set default for how calendar entries are sent out and for meeting location (i.e. stacks zoom account with settings ready to go), that would be really helpful.
+
+Juliet: not sure where we are on the grant, historical intro but recap of the last month or two
+
+-----
+
 1. Set up a Zoom invite for the call. First, check if a recurring Zoom invitation has already been set up—if so, you'll see the link in the regular calendar invitation. If it has already been set up, make sure you've been added as a host. If one has not been set up, you'll need to set up a new meeting. You'll need a Zoom Pro account. Jenny or Lane can do this for you. We recommend the following settings:
     - Registration: Not required
     - Meeting ID: Generate Automatically
@@ -132,19 +179,3 @@ The governance working group collaboratively publishes a regular update, approxi
 1. After giving other members of the working group a few days to review and approve the update, feel free to merge the PR.
 1. Announce the new update to the working group.
 
-## GitHub
-
-It's your responsibility to manage the various GitHub repositories that part of the [`stacksgov` organization](https://github.com/stacksgov). Here are some tips:
-
-- [`stacksgov/pm`](https://github.com/stacksgov/pm) (this repository): Make sure there's an [open issue](https://github.com/stacksgov/pm/issues) for each major task currently being worked on by the working group. Everyone should be free to open new issues here to make requests of the working group, or to propose things for the working group to work on. These issues may be "pointers" to track issues being worked on in other repositories. You may find it helpful to use a project board (such as [this one](https://github.com/stacksgov/pm/projects) for Phase I of the governance initiative) to organize and track sets of tasks in kanban-fashion. Documentation related to project management, such as these instructions, should be documented in this repository. You'll spend most of your time working in this repository.
-- [`stacksgov/resources`](https://github.com/stacksgov/resources): This is the working group's collective "knowledge base." It contains resources, and links to external resources, shared in the governance working group and on the calls. Contains an up to date [table of past calls](https://github.com/stacksgov/resources/blob/master/calls/README.md) with links to resources for those calls. Issues should only be about missing resources. Anyone is free to open an issue to request that some resources be added, as well as to open a PR to propose adding some resource. Your job is to curate these requests and review these proposals.
-- [`stacksgov/updates`](https://github.com/stacksgov/updates): Stores the regular updates [described above](#regular-updates). Issues and PRs should only be related to these updates.
-- [`stacksgov/proposals`](https://github.com/stacksgov/proposals): Stores miscellaneous governance proposals. We're still determining the role of this repository and these proposals relative to the existing [SIP process](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-000-stacks-improvement-proposal-process.md).
-
-# General Resources
-
-See [Stacks Governance Project Management](https://stacksgov.github.io/pm/) for the main project management page related to governance of the Stacks blockchain.
-
-# Licensing
-
-This repository and all contributions herein are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/stacksgov/pm/blob/master/LICENSE). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
