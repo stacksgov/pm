@@ -8,7 +8,7 @@ labels: mtg-agenda
 ## Meeting Details
 
 - **Date/Time:** Month Date, Year @ 4:00pm UTC / 12:00pm ET
-- **Location:** Link will be posted in ``#governance` working group channel [on Discord](https://community.blockstack.org/discord) shortly before the call.
+- **Location:** Link will be posted in the `#governance` working group channel [on Discord](https://community.blockstack.org/discord) shortly before the call.
 - **Recording:** TBA
 - **Moderator:** TBA
 - **Secretary:** TBA
@@ -23,7 +23,7 @@ labels: mtg-agenda
 
 ## Stacks Foundation Updates
 
-See issues with the label `mtg-stxfoundation` for more info.
+See issues with the label `mtg-stacksfoundation` for more info.
 
 https://github.com/stacksgov/pm/labels/mtg-stacksfoundation
 
@@ -35,9 +35,9 @@ https://github.com/stacksgov/pm/labels/mtg-action
 
 ## Discussion Items
 
-See issues with the label `mtg-discussion` for more info.
+See issues with the label `mtg-discuss` for more info.
 
-https://github.com/stacksgov/pm/labels/mtg-discussion
+https://github.com/stacksgov/pm/labels/mtg-discuss
 
 ## Miscellaneous Items
 
