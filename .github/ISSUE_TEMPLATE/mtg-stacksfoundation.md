@@ -5,4 +5,6 @@ title: ""
 labels: mtg-stacksfoundation
 ---
 
+## Stacks Foundation
+
 <!-- These agenda items generally relate to the Stacks Foundation and its operations. -->

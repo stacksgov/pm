@@ -17,6 +17,7 @@ labels: mtg-agenda
 ## Standup Updates
 
 **What happened over the past two weeks? Standup!**
+
 - What is everyone working on right now?
 - Any blockers?
 - What will happen over the next two weeks?
@@ -25,19 +26,19 @@ labels: mtg-agenda
 
 See issues with the label `mtg-stacksfoundation` for more info.
 
-https://github.com/stacksgov/pm/labels/mtg-stacksfoundation
+[https://github.com/stacksgov/pm/labels/mtg-stacksfoundation](https://github.com/stacksgov/pm/labels/mtg-stacksfoundation)
 
 ## Action Items
 
 See issues with the label `mtg-action` for more info.
 
-https://github.com/stacksgov/pm/labels/mtg-action
+[https://github.com/stacksgov/pm/labels/mtg-action](https://github.com/stacksgov/pm/labels/mtg-action)
 
 ## Discussion Items
 
 See issues with the label `mtg-discuss` for more info.
 
-https://github.com/stacksgov/pm/labels/mtg-discuss
+[https://github.com/stacksgov/pm/labels/mtg-discuss](https://github.com/stacksgov/pm/labels/mtg-discuss)
 
 ## Miscellaneous Items
 
