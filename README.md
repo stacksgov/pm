@@ -1,6 +1,6 @@
 # Stacks Governance - Project Management
 
-This repository contains [project boards](https://github.com/stacksgov/pm/projects), [open issues](https://github.com/stacksgov/pm/issues), and [meeting agendas](https://github.com/stacksgov/pm/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) for the Stacks Governance initiative.
+This repository contains [project boards](https://github.com/stacksgov/pm/projects), [open issues](https://github.com/stacksgov/pm/issues), and [meeting agendas](https://github.com/stacksgov/pm/issues/labels/mtg-agenda) for the Stacks Governance initiative.
 
 All of the information in this README is viewable on the related website for this repository, located at the link below:
 
@@ -17,7 +17,7 @@ More information about the Stacks Foundation and its mission can be found at the
 
 ## Standard Operating Procedures
 
-General guidance including best practices for project management of the Governance Working Group can be found in the [Standard Operating Procedures document](sop.md).
+General guidance including best practices for project management of the Governance Working Group can be found in the [Standard Operating Procedures document](https://stacksgov.github.io/pm/#/sop).
 
 ## Licensing
 

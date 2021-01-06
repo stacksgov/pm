@@ -4,24 +4,25 @@ This document contains recommended best practices for managing various aspects o
 
 <!-- TOC -->
 
-- [Get Involved!](#get-involved)
-- [Additional Outlets](#additional-outlets)
-- [Governance Working Group Calls](#governance-working-group-calls)
-- [Governance Working Group Call Procedures](#governance-working-group-call-procedures)
-  - [Preparing for a Call](#preparing-for-a-call)
-  - [Hosting a Call](#hosting-a-call)
-  - [Uploading Call Videos](#uploading-call-videos)
-  - [Publishing Call Updates](#publishing-call-updates)
-- [Governance Working Group Resources](#governance-working-group-resources)
-- [Licensing](#licensing)
+- [Stacks Governance - Standard Operating Procedures](#stacks-governance---standard-operating-procedures)
+  - [Get Involved](#get-involved)
+  - [Additional Outlets](#additional-outlets)
+  - [Governance Working Group Calls](#governance-working-group-calls)
+  - [Governance Working Group Call Procedures](#governance-working-group-call-procedures)
+    - [Preparing for a Call](#preparing-for-a-call)
+    - [Hosting a Call](#hosting-a-call)
+    - [Uploading Call Videos](#uploading-call-videos)
+    - [Publishing Call Updates](#publishing-call-updates)
+  - [Governance Working Group Resources](#governance-working-group-resources)
+  - [Licensing](#licensing)
 
 <!-- /TOC -->
 
-## Get Involved!
+## Get Involved
 
 From [Stacks Governance Update #1 - 4 March, 2020](https://github.com/stacksgov/updates/blob/master/updates/20200304-update-001.md):
 
-> Stacks governance is a community-run initiative! As such, it cannot work without your help, and without the input of as many community members as possible. You do not need anyone’s permission to get involved and contribute to the initiative. The #governance working group channel on [Blockstack Discord](https://discordapp.com/invite/ny6wGkx) is a great place to begin getting involved, as many community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [governance category](https://forum.blockstack.org/c/Working-Groups/governance/) on the Blockstack Community Forum which need your input.
+> Stacks governance is a community-run initiative! As such, it cannot work without your help, and without the input of as many community members as possible. You do not need anyone’s permission to get involved and contribute to the initiative. The #governance working group channel on [Stacks Discord](https://discordapp.com/invite/ny6wGkx) is a great place to begin getting involved, as many community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [governance category](https://forum.stacks.org/c/Working-Groups/governance/) on the Stacks Community Forum which need your input.
 
 ## Additional Outlets
 
@@ -37,9 +38,9 @@ More information about the Stacks Foundation and its mission can be found at the
 Governance Working Group calls are held every other week, and follow the basic agenda format listed below:
 
 - A quick standup update from each attendee
-- Updates from the Stacks Foundation 
-- Review of Action Items 
-- Review of Discussion Items 
+- Updates from the Stacks Foundation
+- Review of Action Items
+- Review of Discussion Items
 - Review of Miscellaneous Items
 
 The meeting agendas and various topics discussed can be found on GitHub, under the [issues tab](https://github.com/stacksgov/pm/issues) of the `stacksgov/pm` repository. There are labels for each issue based on the agenda categories, and the issues tab can be filtered by each label for review.
@@ -49,11 +50,11 @@ The meeting agendas and various topics discussed can be found on GitHub, under t
 - Action Items: [mtg-action](https://github.com/stacksgov/pm/labels/mtg-action)
 - Discussion Items: [mtg-discuss](https://github.com/stacksgov/pm/labels/mtg-discuss)
 
-> **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Mastering Issues](https://guides.github.com/features/issues/) guide from GitHub. 
+> **Note:** When using GitHub, the word "issue" also means "topic", "item", or "idea". Issues are used to track individual discussion items, and labels are used to help categorize and group the issues. More information can be found in the [Mastering Issues](https://guides.github.com/features/issues/) guide from GitHub.
 
-The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources - Calls Page](https://stacksgov.github.io/resources/#/calls/). 
+The notes and resources from previous calls are stored in the `stacksgov/resources` repository, and listed in a table on the [Stacks Governance Resources - Calls Page](https://stacksgov.github.io/resources/#/calls/).
 
-## Governance Working Group Call Procedures 
+## Governance Working Group Call Procedures
 
 Below are the steps for setting up, hosting, and following up on a call.
 
@@ -62,10 +63,10 @@ Below are the steps for setting up, hosting, and following up on a call.
 1. Create a new agenda by opening an issue based on template 
     - ideally this is done right after the last call, to give people enough time to add agenda items for the next meeting
     - example of the issue template on GitHub:
-    
+
     ![Agenda Issue Template Example](sop-meeting-agenda-example.png)
-1. Update the Date/Time to the future meeting date
-1. Create an Event Time Announcer link to help with time zone conversions
+2. Update the Date/Time to the future meeting date
+3. Create an Event Time Announcer link to help with time zone conversions
     - Access the [Event Time Announcer form](https://www.timeanddate.com/worldclock/fixedform.html) from timeanddate.com
     - Name the event, e.g. `Stacks Governance Working Group Call #26`
     - Set the Event Location to `UTC`
@@ -75,14 +76,15 @@ Below are the steps for setting up, hosting, and following up on a call.
     - example of the announcement after someone clicks on it:
   
     ![Event Time Announcer Example](sop-timeanddate-example.png)
-1. Update the roles, or list TBA if unknown
-1. Close the issue from the previous call (instructions below)
+4. Update the roles, or list TBA if unknown
+5. Close the issue from the previous call (instructions below)
     - open the issue from the previous call 
     - add a comment: "Closing in favor of #X" where #X is the issue number of the new agenda
     - click **Close issue** next to the comment button
-1. Share the new issue in the `#governance` channel on Discord
+6. Share the new issue in the `#governance` channel on Discord
 
 Reminders about the governance call and a link to the agenda should be shared in the `#governance` channel on Discord based on the following schedule:
+
 - After the new agenda is created
 - One week before the call
 - One day before the call
@@ -132,13 +134,14 @@ OLD NOTES:
 
 -->
 
-### Uploading Call Videos 
+### Uploading Call Videos
 
 A basic outline of the process is outlined below, however more details will be added at a later date.
 
-- Download files from Zoom 
+- Download files from Zoom
 - Upload files to YouTube using the template below
-    ```
+
+    ```none
     Title: Stacks Governance Call #X [YYYY/MM/DD]
     Description:
       Agenda: [link to agenda issue]
@@ -146,14 +149,15 @@ A basic outline of the process is outlined below, however more details will be a
         - Link 1
         - Link 2
     ```
-- Add link to the related agenda issue 
+
+- Add link to the related agenda issue
 - Share YouTube link in `#governance` discord channel
 
 <!-- related notes from old sop 
 
 1. Review the video: in particular, the very beginning and end of the video. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
 
-1. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
+2. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
 
 -->
 
