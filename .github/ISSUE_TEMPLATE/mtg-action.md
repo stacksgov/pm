@@ -1,6 +1,6 @@
 ---
-name: Agenda: Add Action Item
-about: Use this template to create a new agenda action item.
+name: "Agenda: Add Action Item"
+about: "Use this template to create a new agenda action item."
 title: ""
 labels: mtg-action
 ---

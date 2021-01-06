@@ -1,6 +1,6 @@
 ---
-name: Working Group Meeting Agenda
-about: Use this template to create a new meeting agenda.
+name: "Agenda: Create New"
+about: "Use this template to create a new meeting agenda."
 title: "Working Group Call #X"
 labels: mtg-agenda
 ---

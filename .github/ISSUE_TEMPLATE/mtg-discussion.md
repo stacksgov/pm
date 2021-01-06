@@ -1,6 +1,6 @@
 ---
-name: Agenda: Add Discussion Item
-about: Use this template to create a new agenda discussion item.
+name: "Agenda: Add Discussion Item"
+about: "Use this template to create a new agenda discussion item."
 title: ""
 labels: mtg-discuss
 ---
