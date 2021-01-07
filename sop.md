@@ -192,6 +192,18 @@ The content in the repository is automatically turned into a [web page via Docsi
 - all links must be absolute (i.e. start with https://)
 - configuration can be found in `index.html` for the repo, sample below
 
+Markdown pages are converted into a link without the extension, i.e.
+
+> `/interviews/interview-001.md`
+> becomes
+> `https://stacksgov.github.io/resources/#/interviews/interview-001`
+
+To directly link to a file in the repository, the `#` must be removed, i.e.
+
+> `/survey/20200213_community_call_001.pdf`
+> becomes
+> `https://stacksgov.github.io/resources/calls/20200213_community_call_001.pdf`
+
 ```html
 <!DOCTYPE html>
 <html>
