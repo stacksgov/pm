@@ -14,6 +14,7 @@ This document contains recommended best practices for managing various aspects o
     - [Uploading Call Videos](#uploading-call-videos)
     - [Publishing Call Updates](#publishing-call-updates)
   - [Governance Working Group Resources](#governance-working-group-resources)
+  - [GitHub Pages and Docsify](#github-pages-and-docsify)
   - [Licensing](#licensing)
 
 <!-- /TOC -->
@@ -178,6 +179,43 @@ Working on the items above will require access to the related software and servi
 - [GitHub Repositories](https://github.com/stacksgov)
 - [YouTube Channel](https://www.youtube.com/channel/UCirhluDUpSPVMZQn210HETg)
 - Zoom Pro Account
+
+## GitHub Pages and Docsify
+
+All content in the `resources` and `pm` repos are available on GitHub pages, and most links point to this website instead of forcing a user to navigate around GitHub.
+
+- resources: https://stacksgov.github.io/resources
+- pm: https://stacksgov.github.io/pm
+
+The content in the repository is automatically turned into a [web page via Docsify](https://docsify.js.org/#/).
+
+- all links must be absolute (i.e. start with https://)
+- configuration can be found in `index.html` for the repo, sample below
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      repo: 'stacksgov/pm',
+      subMaxLevel: 3,
+      logo: 'https://github.com/stacksgov/resources/blob/master/brand/stacksgov_greensquare_150x150.png?raw=true',
+      name: 'Stacksgov Community Governance Project Management',
+      auto2top: true
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
+```
 
 ## Licensing
 
