@@ -184,6 +184,8 @@ Working on the items above will require access to the related software and servi
 
 All content in the `resources` and `pm` repos are available on GitHub pages, and most links point to this website instead of forcing a user to navigate around GitHub.
 
+GitHub pages are updated whenever a change is pushed to the `master` branch of the repository.
+
 - resources: https://stacksgov.github.io/resources
 - pm: https://stacksgov.github.io/pm
 
