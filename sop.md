@@ -140,7 +140,11 @@ OLD NOTES:
 A basic outline of the process is outlined below, however more details will be added at a later date.
 
 - Download files from Zoom
-- Upload files to YouTube using the template below
+- Upload files to Youtube Studio using the template below
+  - Log into Youtube Studio and select the Stacks Governance channel
+  - From the dashboard, click `CREATE` then `Upload videos`
+  - Select the downloaded video file from Zoom
+  - Fill in the information below while the video processes
 
     ```none
     Title: Stacks Governance Call #X [YYYY/MM/DD]
@@ -149,10 +153,13 @@ A basic outline of the process is outlined below, however more details will be a
       Links shared on call:
         - Link 1
         - Link 2
+      Playlists: Stacks Governance Calls
     ```
 
-- Add link to the related agenda issue
-- Share YouTube link in `#governance` discord channel
+  - Set the visibility to Public
+  - Publish the video
+- Save the Youtube link to add to the stacksgov/resources calls table
+- Share link in `#governance` discord channel
 
 <!-- related notes from old sop 
 
