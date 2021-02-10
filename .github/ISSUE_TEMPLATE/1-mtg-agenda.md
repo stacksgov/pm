@@ -9,10 +9,11 @@ labels: mtg-agenda
 
 - **Date/Time:** Month Date, Year @ 4:00pm UTC / 12:00pm ET
 - **Location:** Link will be posted in the `#governance` working group channel [on Discord](https://community.blockstack.org/discord) shortly before the call.
-- **Recording:** TBA
 - **Moderator:** TBA
 - **Secretary:** TBA
 - **Publisher:** TBA
+
+The [Stacks Governance - Calls](https://stacksgov.github.io/resources/#/calls/?id=governance-working-group) page contains a table of past calls, including a link to the agenda, recording, notes, and resources.
 
 ## Standup Updates
 
