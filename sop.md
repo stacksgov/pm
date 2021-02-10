@@ -12,6 +12,8 @@ This document contains recommended best practices for managing various aspects o
     - [Preparing for a Call](#preparing-for-a-call)
     - [Hosting a Call](#hosting-a-call)
     - [Uploading Call Videos](#uploading-call-videos)
+    - [Updating Resources Call Table](#updating-resources-call-table)
+      - [Formatting Tips](#formatting-tips)
     - [Publishing Call Updates](#publishing-call-updates)
   - [Governance Working Group Resources](#governance-working-group-resources)
   - [GitHub Pages and Docsify](#github-pages-and-docsify)
@@ -140,7 +142,11 @@ OLD NOTES:
 A basic outline of the process is outlined below, however more details will be added at a later date.
 
 - Download files from Zoom
-- Upload files to YouTube using the template below
+- Upload files to Youtube Studio using the template below
+  - Log into Youtube Studio and select the Stacks Governance channel
+  - From the dashboard, click `CREATE` then `Upload videos`
+  - Select the downloaded video file from Zoom
+  - Fill in the information below while the video processes
 
     ```none
     Title: Stacks Governance Call #X [YYYY/MM/DD]
@@ -149,18 +155,77 @@ A basic outline of the process is outlined below, however more details will be a
       Links shared on call:
         - Link 1
         - Link 2
+      Playlists: Stacks Governance Calls
     ```
 
-- Add link to the related agenda issue
-- Share YouTube link in `#governance` discord channel
+  - Set the visibility to Public
+  - Publish the video
+- Save the Youtube link to add to the stacksgov/resources calls table
+- Share link in `#governance` discord channel
 
-<!-- related notes from old sop 
+> Note: It is really helpful to review the video, in particular, the very beginning and end. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
 
-1. Review the video: in particular, the very beginning and end of the video. Make sure that there isn't too much silence or banter in the recording before the actual meeting begins. Trim the video if necessary.
+### Updating Resources Call Table
 
-2. Grab the YouTube link for the video. Note that you can get the link even before the video has finished processing.
+All governance working group calls are documented in a markdown-formatted table on the stacksgov/resources repository, and [displayed publicly via GitHub Pages](https://stacksgov.github.io/resources/#/calls/?id=governance-working-group).
 
--->
+Updating this information requires making changes to the repository on GitHub, followed by submitting a pull request for the changes. The general procedure is:
+
+- Fork the stacksgov/resources repository
+- Make the changes to your forked version of the repository
+- Submit a pull request with your changes back to stacksgov/resources
+
+More information on the [markdown syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and [collaborating with issues and pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) can be found in the linked GitHub tutorials.
+
+If you have any questions, feel free to reach out in the `#governance` channel of Discord, too!
+
+#### Formatting Tips
+
+The key element to understand when updating the content is the structure of a markdown table and a markdown link.
+
+Tables use a pipe `|` to separate data in columns, such that:
+
+```none
+| Heading 1 | Heading 2 | Heading 3 |
+| --- | --- | --- |
+| Content 1 | Content 1 | Content 1 |
+| Content 2 | Content 2 | Content 2 |
+```
+
+Which produces:
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --- | --- | --- |
+| Content 1 | Content 1 | Content 1 |
+| Content 2 | Content 2 | Content 2 |
+
+So to add a new row, we just have to match the number of columns:
+
+```none
+| Heading 1 | Heading 2 | Heading 3 |
+| --- | --- | --- |
+| New Content | New Content | New Content |
+| Content 1 | Content 1 | Content 1 |
+| Content 2 | Content 2 | Content 2 |
+```
+
+Which produces:
+
+| Heading 1 | Heading 2 | Heading 3 |
+| --- | --- | --- |
+| New Content | New Content | New Content |
+| Content 1 | Content 1 | Content 1 |
+| Content 2 | Content 2 | Content 2 |
+
+For links, square brackets are used for the link text, followed by parentheses for the link destination.
+
+```none
+This is [a link](https://stacksgov.github.io/resources) in markdown.
+```
+
+Which produces:
+
+This is [a link](https://stacksgov.github.io/resources) in markdown.
 
 ### Publishing Call Updates
 
@@ -183,6 +248,8 @@ Working on the items above will require access to the related software and servi
 ## GitHub Pages and Docsify
 
 All content in the `resources` and `pm` repos are available on GitHub pages, and most links point to this website instead of forcing a user to navigate around GitHub.
+
+GitHub pages are updated whenever a change is pushed to the `master` branch of the repository.
 
 - resources: https://stacksgov.github.io/resources
 - pm: https://stacksgov.github.io/pm
